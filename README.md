@@ -28,7 +28,7 @@
 
 | 이름 | 미리보기 링크 |
 |------|------------------------------|
-| student1 | https://juhyeon0906.github.io/2025-SM-CODE-FOX/students/student1/ |
+| 윤채령| https://juhyeon0906.github.io/2025-SM-CODE-FOX/students/student1/ |
 | student2 | https://juhyeon0906.github.io/2025-SM-CODE-FOX/students/student2/ |
 | student3 | https://juhyeon0906.github.io/2025-SM-CODE-FOX/students/student3/ |
 | student4 | https://juhyeon0906.github.io/2025-SM-CODE-FOX/students/student4/ |
